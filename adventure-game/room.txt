@@ -1,0 +1,5 @@
+
+you are in a long corridor, labeled room 0.
+the walls are lined with poetry.
+
+there are three doors, labeled 4, 5, and 7.

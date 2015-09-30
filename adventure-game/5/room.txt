@@ -1,0 +1,7 @@
+
+you are in room 5.
+
+on the desk in the center of the room is a blue book.
+maybe you should open it.
+
+there are no other doors in the room except the one going back to room 0.
